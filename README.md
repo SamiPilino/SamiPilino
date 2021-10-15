@@ -1,4 +1,5 @@
-- 👋 Greetings, I’m @SamiPilino! I'm a recent college graduate looking for software engineering opportunities.
+# 👋 Greetings, I’m @SamiPilino! 🤝
+- 🎓 I'm a recent college graduate looking for software engineering opportunities.
 - 🥅 My goal is to use software to analyze, describe, and stabilize dynamic systems.
 - ⚙️ I've done some work with embedded systems, AI robots, operating systems, distributed systems.
 - 🌐 I've also worked on a few websites using tools such as React.js and Redux, Svelte, Node.js and Express.js, Axios, MongoDB, and SQL but I prefer working on the business logic over UI/UX type work.
@@ -11,4 +12,8 @@
   - Custom Linux distros
   - Project Management tools
   - ...and much more!
-- 📫 You can also reach me on Twitter at @PilinoSami or on Instagram at @samipilino.
+- 📫 You can also reach me on Twitter at [@PilinoSami][twitter] or on Instagram at [@samipilino][instagram].
+
+<!-- Links -->
+[twitter]: https://twitter.com/PilinoSami "Twitter Profile"
+[instagram]: https://www.instagram.com/samipilino/ "Instagram Profile"
